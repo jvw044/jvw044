@@ -1,4 +1,12 @@
-### Hi there 👋
+### Olá 👋
+
+ *Bem-vindos ao meu perfil*
+   
+   Meu nome é Ana Júlia Vieira
+   
+   * Estou estudando no Alura
+   * EStou me desenvolvendo na linguagem JavaScript
+   * Utilizo esse espaço para compartilhamento dos meus projetos desenvolvidos
 
 <!--
 **jvw044/jvw044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
